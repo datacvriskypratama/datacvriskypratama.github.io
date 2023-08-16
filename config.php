@@ -11,4 +11,4 @@ define('DB_USER', 'id20226576_datacvrp22');
 define('DB_PASS', 'Akbar321@@');
 define('DB_NAME', 'id20226576_datacvrp22');
 
-?>1
+?>
